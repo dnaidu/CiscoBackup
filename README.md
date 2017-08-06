@@ -1,5 +1,5 @@
 # CiscoBackup
-# Cisco MDS Fiber Channel Switch Configuration Backup Using SSH
+# Cisco MDS Fibre Channel Switch Configuration Backup Using SSH
 #Author: Deepak Naidu
 
 #Script: CiscoBackup.pl
